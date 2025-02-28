@@ -25,7 +25,6 @@ classifiers=[
 ]
 packages = [{include = "lerobot"}]
 
-
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
 termcolor = ">=2.4.0"
